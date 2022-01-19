@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dragon vs hero Mitrik/1.0.0": {
+        "runtime": {
+          "Dragon vs hero Mitrik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dragon vs hero Mitrik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
